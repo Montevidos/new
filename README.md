@@ -5,13 +5,15 @@
 6. If FitLife wanted to cut one class, which should they drop?  spinning
 7. Which group attends the gym the most, and which spends the most?  25-34 attends the most, but maybe 35-44 and 45-54 spend more because they could have better income to be able to use premium subscriptions and so on
 
-1. Если твои файлы и чужие изменения не пересекаются
-	•	Git сам сольёт (merge) без проблем.
-	•	Просто появится история: твои изменения сверху + чужие изменения в других файлах.
+🌿 Create a new branch
+💾 Commit and push changes to the new branch
+📬 Open a Pull Request (PR)
+👀 Review code and approve the pull request
+🔀 Merge the branch into the main branch
+⚠️ Handle merge conflicts if they occur
+🔄 Synchronize branches (make sure everything is up to date)
+🔁 Open, approve, and merge pull requests as needed
 
-2. Если вы трогали один и тот же кусок кода
-	•	Будет конфликт (Git не может угадать, какой вариант правильный).
-	•	Тебе придётся руками выбрать: оставить твой код, их код или объединить
 
 Dashboard-Struktur (Что включено):
 	•	📊 KPI-Übersicht: Spend, Klicks, CTR, CPA, Käufe

@@ -9,9 +9,6 @@
 10. Which campaigns are most efficient? google ads influencer 
 11. Any outliers where spend is high but results low? radio, flyers
 
-1. Если твои файлы и чужие изменения не пересекаются
-	•	Git сам сольёт (merge) без проблем.
-	•	Просто появится история: твои изменения сверху + чужие изменения в других файлах.
 
 2. Если вы трогали один и тот же кусок кода
 	•	Будет конфликт (Git не может угадать, какой вариант правильный).
